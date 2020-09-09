@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98a3bded.chunk.css",
+    "main.js": "/static/js/main.c674fe10.chunk.js",
+    "main.js.map": "/static/js/main.c674fe10.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9f1e8064.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9f1e8064.js.map",
+    "static/js/2.88794533.chunk.js": "/static/js/2.88794533.chunk.js",
+    "static/js/2.88794533.chunk.js.map": "/static/js/2.88794533.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6f32768f29e2e1ddd10d0f092b03c360.js": "/precache-manifest.6f32768f29e2e1ddd10d0f092b03c360.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.98a3bded.chunk.css.map": "/static/css/main.98a3bded.chunk.css.map",
+    "static/js/2.88794533.chunk.js.LICENSE.txt": "/static/js/2.88794533.chunk.js.LICENSE.txt",
+    "static/media/style-freedom.css": "/static/media/inner2.410887fe.jpg",
+    "static/media/about3.jpg": "/static/media/about3.66be5399.jpg",
+    "static/media/bangkok.webp": "/static/media/bangkok.8f0dcdbd.webp",
+    "static/media/chiang-mai.webp": "/static/media/chiang-mai.f5bd459b.webp",
+    "static/media/goldendreamsadventure-logo-footer.png": "/static/media/goldendreamsadventure-logo-footer.23a5ebf3.png",
+    "static/media/ko-samui.webp": "/static/media/ko-samui.aeec22af.webp",
+    "static/media/package1.jpg": "/static/media/package1.b2e03806.jpg",
+    "static/media/package2.jpg": "/static/media/package2.11aee164.jpg",
+    "static/media/package3.jpg": "/static/media/package3.4a39b707.jpg",
+    "static/media/package4.jpg": "/static/media/package4.a2045ddb.jpg",
+    "static/media/package5.jpg": "/static/media/package5.d0ccdbb4.jpg",
+    "static/media/pattaya-walking-street.webp": "/static/media/pattaya-walking-street.74cedadf.webp",
+    "static/media/phi-phi-island.webp": "/static/media/phi-phi-island.b84bc363.webp",
+    "static/media/phuket.webp": "/static/media/phuket.e890b011.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f1e8064.js",
+    "static/js/2.88794533.chunk.js",
+    "static/css/main.98a3bded.chunk.css",
+    "static/js/main.c674fe10.chunk.js"
+  ]
+}
